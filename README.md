@@ -25,6 +25,7 @@
 
 * `checkNeedToUpload()`
 * `sendDataToServer(json)`
+* `checkInternetConnection()`
 * `saveToStorage()`
 * `loadFromStorage()`
 
